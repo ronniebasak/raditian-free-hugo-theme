@@ -118,16 +118,19 @@ client_and_work:
         x: "img/clients/asgardia.png"
         _2x: "img/clients/asgardia@2x.png"
       alt: "Asgardia"
+      URL: https://radity.com
 
     - logo:
         x: "img/clients/earth-2.png"
         _2x: "img/clients/earth-2@2x.png"
       alt: "Earth 2.0"
+      URL: https://radity.com
 
     - logo:
         x: "img/clients/goldline.png"
         _2x: "img/clients/goldline@2x.png"
       alt: "Goldline"
+      URL: https://radity.com
 
     - logo:
         x: "img/clients/kanba.png"
